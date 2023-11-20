@@ -1,1 +1,2 @@
 # passwordmanager_practice
+シェルスクリプトで作成したパスワードマネージャーです。動作にはGnuPGが必要です。
